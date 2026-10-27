@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-WiserNotify is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://wisernotify.com/
+WiserNotify provides a notification platform that enables businesses to send real‑time alerts via email, SMS, push notifications, and webhooks. The service offers customizable templates, scheduling, audience segmentation, and analytics to track delivery and engagement. It integrates with popular SaaS tools and supports API‑first development, allowing developers to programmatically manage notifications, recipients, and reporting.
+
+**Areas:** Company · Notification · API · SaaS · Real-time
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://wisernotify.com/)
+- [Documentation](https://wisernotify.com/docs/)
+- [Getting started](https://wisernotify.com/docs/getting-started)
+- [Pricing](https://wisernotify.com/pricing)
+- [Support](https://wisernotify.com/contact)
+- [Blog](https://wisernotify.com/blog/)
+- [Security](https://wisernotify.com/security/)
+- [Privacy policy](https://wisernotify.com/privacypolicy/)
+- [GitHub](https://github.com/Wisernotify)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/wisernotify/](https://apis.io/providers/wisernotify/).
